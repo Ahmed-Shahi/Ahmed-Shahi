@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" width=400 alt"coding" src'https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif'>
 
-<p align="left"> <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/man-doing-binary-coding-on-laptop-animation-download-in-lottie-json-gif-static-svg-file-formats--web-programmer-website-development-internet-developer-expert-programming-pack-design-animations-8957650.mp4" alt="ahmed-shahi" /> </p>
+<p align="left"> 
 
 - 🌱 I’m currently learning **React.js, Python**
 
