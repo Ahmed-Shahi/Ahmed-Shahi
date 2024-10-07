@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shahi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" width=400 alt"coding" src'https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fleorrose%2Fleorrose&psig=AOvVaw0gter0Vzl8QHrtEKnxbzNH&ust=1728429256795000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKixioyz_YgDFQAAAAAdAAAAABAE'>
+<img align="right" width=400 alt"coding" src'https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-shahi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-shahi" /> </p>
 
