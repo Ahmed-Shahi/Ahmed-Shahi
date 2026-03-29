@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shahi</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
 <img align="right" width=400 alt"coding" src'https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif'>
 
 <p align="left"> 
