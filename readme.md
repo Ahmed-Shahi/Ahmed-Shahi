@@ -4,9 +4,9 @@
 
 <p align="left"> 
 
-- 🌱 I’m currently learning **React.js, Python**
+- 🌱 I’m currently learning **DevOps Engineering**
 
-- 💬 Ask me about **React.js, C#**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **ahmedshahi038@gmail.com**
 
